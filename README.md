@@ -1,6 +1,12 @@
 # ALBEDO
 
-**Kenya Carbon Intelligence Platform for E-Mobility**
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![PHP](https://img.shields.io/badge/PHP-8.3-blue)
+![Laravel](https://img.shields.io/badge/Laravel-11-red)
+![Status](https://img.shields.io/badge/status-alpha-orange)
+
+<on credits, KNCR-ready).
+
 
 [![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?logo=laravel)](https://laravel.com)
 [![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?logo=mysql&logoColor=white)](https://mysql.com)
