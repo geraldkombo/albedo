@@ -1,40 +1,21 @@
-ALBEDO Proprietary License
+MIT License
 
-Copyright (c) 2026 Gerald Kombo. All rights reserved.
+Copyright (c) 2026
 
-PROPRIETARY AND CONFIDENTIAL
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-This software and associated documentation files (the "Software") are the
-proprietary property of Gerald Kombo. Unauthorized copying, distribution,
-modification, public display, or public performance of the Software is
-strictly prohibited.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-The Software is licensed, not sold. Use of this Software is permitted only
-by authorized team members for the purposes of developing, testing, and
-deploying the ALBEDO platform.
-
-ACKNOWLEDGEMENT OF PUBLIC DOMAIN SOURCES
-
-The Software incorporates constants and formulas derived from publicly
-available official documents, including but not limited to:
-- IPCC 2006 Guidelines for National Greenhouse Gas Inventories
-- UNFCCC AMS-III.C v16.0 Methodology
-- UNFCCC ASB0050-2020 Grid Emission Factor
-- Kenya Carbon Markets Regulations 2024 (LN 84)
-- EPRA EV Charging and Battery Swapping Infrastructure Guidelines 2023
-- NEMA Kenya National Carbon Registry documentation
-
-These source constants remain in the public domain. The Software's
-implementation, architecture, algorithms, and business logic are proprietary.
-
-GOVERNING LAW
-
-This license shall be governed by and construed in accordance with the
-laws of the Republic of Kenya.
-
-NO WARRANTY
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
-
-Contact: Gerald Kombo
-Website: https://albedo.co.ke
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
