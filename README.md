@@ -5,13 +5,10 @@
 ![Laravel](https://img.shields.io/badge/Laravel-11-red)
 ![Status](https://img.shields.io/badge/status-alpha-orange)
 
-<on credits, KNCR-ready).
+Carbon intelligence platform for e-mobility SACCO fleets — EV vs ICE emission calculations, carbon credits, KNCR-ready.
 
-
-[![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?logo=laravel)](https://laravel.com)
 [![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?logo=mysql&logoColor=white)](https://mysql.com)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-3-06B6D4?logo=tailwindcss)](https://tailwindcss.com)
-[![License](https://img.shields.io/badge/License-Proprietary-red)]()
 
 > Every calculation must trace to an official source. No estimates. No assumptions.
 
